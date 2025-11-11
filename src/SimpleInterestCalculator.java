@@ -1,5 +1,8 @@
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> d877a48f845910f7d617b706abc67131d4c6d422
 import java.util.Scanner;
 
 public class SimpleInterestCalculator {
